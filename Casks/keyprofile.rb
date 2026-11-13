@@ -1,8 +1,8 @@
 cask "keyprofile" do
-  version "1.0.4"
-  sha256 "958d897e609d32fc564a92e9926319f64c8704f37ae85718c51a6f734638811a"
+  version "1.0.5"
+  sha256 "6df804c4bd5ad19d225d9f595ecf464bd9cc0e27bbd2725ae8a746ca07a22aeb"
 
-  url "https://github.com/Warkanlock/homebrew-keyprofile/releases/download/v1.0.4/Keyprofile.dmg"
+  url "https://github.com/Warkanlock/homebrew-keyprofile/releases/download/v1.0.5/Keyprofile.dmg"
   name "Keyprofile"
   desc "Writing shortcuts for macOS"
   homepage "https://keyprofile.app/"
