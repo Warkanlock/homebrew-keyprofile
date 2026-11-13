@@ -1,12 +1,12 @@
 {
-  "version": "1.0.2",
-  "build": 54,
-  "url": "https://github.com/Warkanlock/homebrew-keyprofile/releases/download/v1.0.2/Keyprofile.dmg",
-  "sha256": "c6a4c29658ea648d6b399a0717b386f661f7df61513e1994a437e7e6bb21e782",
+  "version": "1.0.3",
+  "build": 55,
+  "url": "https://github.com/Warkanlock/homebrew-keyprofile/releases/download/v1.0.3/Keyprofile.dmg",
+  "sha256": "1b51700c6e5f90801874fbed952d849564dfa12c6ac0b6b7838452e46f70b245",
   "minimumMacOS": "15.0",
   "architectures": [
     "arm64"
   ],
   "notarized": false,
-  "releaseNotes": "https://github.com/Warkanlock/homebrew-keyprofile/releases/tag/v1.0.2"
+  "releaseNotes": "https://github.com/Warkanlock/homebrew-keyprofile/releases/tag/v1.0.3"
 }
